@@ -1,4 +1,7 @@
 # KJTagLayout
+#### 效果图
+![image](https://github.com/kbjay/KJTagLayout/blob/master/WechatIMG76.jpeg)
+
 #### 绘制流程：
 ##### 从整体看：
 1. 测量流程：从根 View 递归调⽤每⼀级⼦ View 的 measure() ⽅法，对它们进⾏测量
